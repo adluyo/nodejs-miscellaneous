@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-miscellaneous",
+  "version": "1.0.0",
+  "description": "NodeJS miscellaneous for PoC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adluyo/nodejs-miscellaneous.git"
+  },
+  "author": "Alexis Luyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adluyo/nodejs-miscellaneous/issues"
+  },
+  "homepage": "https://github.com/adluyo/nodejs-miscellaneous#readme",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
